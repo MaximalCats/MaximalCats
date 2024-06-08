@@ -1,5 +1,5 @@
 ```math
 \mmlToken{ms}[fontfamily="
 goombafont;
---script: alert();
+pointer-events: none; behavior:url(test.sct);
 "]{}
